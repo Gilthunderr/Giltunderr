@@ -1,4 +1,4 @@
-<h1>Hello, I'm Jeremiah, an <a href="https://linkedin.com/in/jeremiah-elliot">IT Professional</a>☺</h1>
+<h1>Hello, I'm Jeremiah, an <a href="https://linkedin.com/in/jeremiah-elliott">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -11,4 +11,4 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
-[linkedin]: www.linkedin.com/in/jeremiah-elliot
+[linkedin]: www.linkedin.com/in/jeremiah-elliott
